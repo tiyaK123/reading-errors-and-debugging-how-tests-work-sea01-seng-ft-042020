@@ -1,4 +1,4 @@
 # Add your variables here
 first_number= 10 
 second_number = 99 
-sum = first_number + first_number
+sum = first_number + second_number
